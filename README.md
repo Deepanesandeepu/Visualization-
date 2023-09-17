@@ -1,2 +1,2 @@
 # Visualization-
-Conducting data visualization using Power BI and Tableau 
+Conducting data visualization using Power BI and Tableau. 
